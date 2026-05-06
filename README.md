@@ -41,7 +41,8 @@ I focus on building real-world SaaS products with clean architecture and perform
 
 ## 📌 Featured Projects
 
--# 🔹 Planora – Planora is a modern full-stack task and project management platform designed to help users organize their daily activities, track progress, and manage productivity efficiently. It offers a clean and intuitive interface where users can create tasks, set priorities, update statuses, and monitor deadlines in real time. Built with a scalable MERN-style architecture, Planora focuses on performance, smooth user experience, and secure data handling to make planning and productivity simple and effective.
+#  Planora –
+Planora is a modern full-stack task and project management platform designed to help users organize their daily activities, track progress, and manage productivity efficiently. It offers a clean and intuitive interface where users can create tasks, set priorities, update statuses, and monitor deadlines in real time. Built with a scalable MERN-style architecture, Planora focuses on performance, smooth user experience, and secure data handling to make planning and productivity simple and effective.
 
 - Tech used for this project:
 <div align="left">
@@ -65,7 +66,7 @@ I focus on building real-world SaaS products with clean architecture and perform
 
 
 
-- 🔹# FoodyVerse –
+ # FoodyVerse –
 - Foodyverse is a modern full-stack food platform where users can explore, order, and manage delicious meals from a variety of cuisines. It provides a smooth and  responsive experience with features like food browsing, detailed item views, secure authentication, and easy order management. Built with a scalable architecture, Foodyverse focuses on speed, usability, and a clean user interface for an enjoyable food ordering experience.
 - Tech used for this project:
 - <div align="left">
@@ -90,7 +91,8 @@ I focus on building real-world SaaS products with clean architecture and perform
 
 
 
-- 🔹# Khall – Khal-la-a-Hall is a full-stack meal management system designed to simplify hostel or hall dining operations. It allows students to manage their meal plans, track daily meals, and provide feedback on food quality, while administrators can efficiently handle meal schedules, monitor food consumption, and manage overall dining records. The system ensures transparency, reduces manual work, and improves communication between students and hall management through a clean, user-friendly interface and secure backend architecture.
+# Khall – 
+Khall is a full-stack meal management system designed to simplify hostel or hall dining operations. It allows students to manage their meal plans, track daily meals, and provide feedback on food quality, while administrators can efficiently handle meal schedules, monitor food consumption, and manage overall dining records. The system ensures transparency, reduces manual work, and improves communication between students and hall management through a clean, user-friendly interface and secure backend architecture.
 
 - Tech used for this project:
 <div align="left">
