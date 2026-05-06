@@ -69,7 +69,7 @@ Planora is a modern full-stack task and project management platform designed to 
  # FoodyVerse –
 - Foodyverse is a modern full-stack food platform where users can explore, order, and manage delicious meals from a variety of cuisines. It provides a smooth and  responsive experience with features like food browsing, detailed item views, secure authentication, and easy order management. Built with a scalable architecture, Foodyverse focuses on speed, usability, and a clean user interface for an enjoyable food ordering experience.
 - Tech used for this project:
-- <div align="left">
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
@@ -82,7 +82,7 @@ Planora is a modern full-stack task and project management platform designed to 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-- 
+
 - Live Demo Link - https://foodyverse-frontend.vercel.app/
 
 
