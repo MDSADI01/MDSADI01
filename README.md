@@ -2,7 +2,7 @@
  <img src="https://i.postimg.cc/Hk97YWWn/Chat-GPT-Image-May-6-2026-07-39-58-PM.png" alt="Banner"  />
 </div>
 
-# Hi, I'm Sakir Hossain 👋
+# Hi, I'm Md.Sakir Hossain Sadi👋
 
 ## 🚀 Full-Stack Developer
 Building scalable web applications using modern technologies.
